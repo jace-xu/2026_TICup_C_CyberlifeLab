@@ -11,13 +11,23 @@ A digital key and smart lock prototype developed for Problem C of the 2026 TI Cu
 
 **Tech stack:** STM32 · Raspberry Pi 5 · ROS 2 · Python · UWB · LiDAR · Kalman Filter · SolidWorks
 
-## Prototype
+## Prototypes
 
 <p align="center">
-  <img src="1.jpg" alt="Digital key smart lock prototype at the competition venue" width="380">
+  <img src="1.jpg" alt="Smart lock prototype at the competition venue" width="380">
 </p>
 
-![Front and rear views of the assembled prototype](2.jpg)
+![Front and rear views of the smart lock](2.jpg)
+
+### Digital Key
+
+<p align="center">
+  <img src="3.jpg" alt="Wireless digital key prototype" width="380">
+</p>
+
+## Our Team
+
+![Our team at the competition](4.jpg)
 
 ## Repository
 
