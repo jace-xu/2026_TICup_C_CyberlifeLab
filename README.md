@@ -37,3 +37,7 @@ A digital key and smart lock prototype developed for Problem C of the 2026 TI Cu
 - [`Pi5_lidar/`](Pi5_lidar/) — ROS 2 workspace for LiDAR localization and serial communication.
 - [`Structure/`](Structure/) — SolidWorks models and STEP files for the mechanical assembly.
 - [`Report.pdf`](Report.pdf) — Project report with system design and test results (Chinese).
+
+## License
+
+Original project code is licensed under the [GNU General Public License v3.0](LICENSE) (SPDX: `GPL-3.0-only`). Third-party components retain their respective licenses and copyright notices.
