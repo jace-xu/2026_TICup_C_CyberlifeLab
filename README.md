@@ -1,4 +1,4 @@
-# Cyberlife — Wireless Digital Key System
+# 2026 TI Cup — Wireless Digital Key System
 
 A digital key and smart lock prototype developed for Problem C of the 2026 TI Cup Undergraduate Electronic Design Contest (Guangdong Division). The system combines UWB wireless communication with LiDAR localization to identify an authorized key, track its position, and trigger welcome alerts, automatic unlocking, and locking when the key leaves the designated area.
 
