@@ -1,0 +1,50 @@
+# Keil - 用户相关（窗口布局、调试器设置等，每台机器不同）
+*.uvguix.*
+*.uvoptx
+
+# Keil - 构建产物（每次编译都会重新生成）
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.htm
+*.lnp
+*.dep
+*.iex
+*.lst
+*.sct
+
+# Keil - 自动生成的运行时环境
+RTE/
+
+# Keil - 调试配置（机器相关）
+DebugConfig/
+*.dbgconf
+
+# Keil - 调试器初始化文件
+*.ini
+JLinkSettings.ini
+
+# Keil - 备份文件
+*.UV*.bak
+
+# Keil - 临时的 Listings/Objects 目录（如果存在）
+Listings/
+Objects/
+
+# Keil - EventRecorder stub
+*.scvd
+
+# J-Link 日志
+JLinkLog.txt
+
+# CubeMX - 自动生成的项目元数据
+.mxproject
+
+# VSCode - 插件日志（任意子目录下）
+**/.vscode/uv4.log*
+**/.vscode/keil-assistant.log
+**/.vscode/settings.json
