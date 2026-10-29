@@ -2,6 +2,8 @@
 
 A digital key and smart lock prototype developed for Problem C of the 2026 TI Cup Undergraduate Electronic Design Contest (Guangdong Division). The system combines UWB wireless communication with LiDAR localization to identify an authorized key, track its position, and trigger welcome alerts, automatic unlocking, and locking when the key leaves the designated area.
 
+**Problem statement:** [Problem C — Contest Problem PDF (Chinese)](Problem_C.pdf)
+
 ## Highlights
 
 - **Key identification:** An STM32F103-based wireless key transmits a configurable 4-bit ID for matching against the lock's configured ID.
